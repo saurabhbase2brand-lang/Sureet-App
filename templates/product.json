@@ -49,6 +49,19 @@
             "show_gift_card_recipient": true
           }
         },
+        "new_cnc_pdp_delivery_method_iDmJWw": {
+          "type": "shopify://apps/new-cnc/blocks/pdp-delivery-method/0199955a-459c-7578-9c56-38b677eedcf4",
+          "settings": {
+            "button_title": "Check Stock in Store",
+            "close_button_title": "Close Stock Check",
+            "sdev_check_stock_button": "#007bff",
+            "sdev_check_stock_button_hover": "#fff",
+            "sdev_check_stock_button_text_color": "#fff",
+            "button_color": "#007bff",
+            "close_button_hover_color": "#007bff",
+            "pickup_location_label": "Please choose a pickup location:"
+          }
+        },
         "description": {
           "type": "description",
           "settings": {}
@@ -68,6 +81,7 @@
         "subscription_select_3rFjcr",
         "quantity_selector",
         "buy_buttons",
+        "new_cnc_pdp_delivery_method_iDmJWw",
         "description",
         "share"
       ],
@@ -114,8 +128,8 @@
             "button_title": "Check Stock in Store",
             "close_button_title": "Close Stock Check",
             "sdev_check_stock_button": "#007bff",
-            "sdev_check_stock_button_hover": "#fff",
-            "sdev_check_stock_button_text_color": "#fff",
+            "sdev_check_stock_button_hover": "#ffffff",
+            "sdev_check_stock_button_text_color": "#ffffff",
             "button_color": "#007bff",
             "close_button_hover_color": "#007bff",
             "pickup_location_label": "Please choose a pickup location:"
